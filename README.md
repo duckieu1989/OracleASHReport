@@ -1,2 +1,2 @@
 # OracleASHReport
-Create project by DUCKT - DBA SCB Bank
+Create project by DUCKT - DBA
